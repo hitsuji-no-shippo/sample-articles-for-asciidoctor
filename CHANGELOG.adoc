@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.4.0
-:revdate: 2019-12-26T11:56:31+0900
-:revremark: Add log that fix link for gatsby-simple-blog-with-asciidoctor
+:revnumber: v1.5.0
+:revdate: 2019-12-26T12:15:47+0900
+:revremark: Add log that make submodule from asciidoc-sample article
 :doctype: article
 :description: sample-articles-for-asciidoctor Change Log
 :title:
@@ -47,7 +47,11 @@ ifndef::env-github[:icons: font]
 
 === Fix
 
-* section level from 2 to 1 in 2回目の投稿. (close link:{issues-url}/4[#4])
+* Section level from 2 to 1 in 2回目の投稿. (close link:{issues-url}/4[#4])
+
+=== Refactor
+
+* Make submodule from asciidoc-sample article. (close link:{issues-url}/5[#5])
 
 === Docs
 
