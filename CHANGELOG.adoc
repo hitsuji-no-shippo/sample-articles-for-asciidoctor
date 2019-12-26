@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.0.0
-:revdate: 2019-12-26T10:39:39+0900
-:revremark: First Edition
+:revnumber: v1.1.0
+:revdate: 2019-12-26T10:40:18+0900
+:revremark: Add log that clone hitsuji-no-shippo/gatsby-simple-blog-with-asciidoctor/content/blog
 :doctype: article
 :description: sample-articles-for-asciidoctor Change Log
 :title:
@@ -46,7 +46,21 @@ ifndef::env-github[:icons: font]
 
 === Chore
 
+:gatsby-simple-blog-with-asciidoctor-url: {author-github-profile-url}/gatsby-simple-blog-with-asciidoctor
 * Add `.gitignore`. (close link:{issues-url}/1[#1])
+* Clone link:{gatsby-simple-blog-with-asciidoctor-url}[
+  hitsuji-no-shippo/gatsby-simple-blog-with-asciidoctor]/content/blog.
+  (close link:{issues-url}/2[#2])
++
+--
+:gatsby-simple-blog-with-asciidoctor-commit-id: 4e0b02f94c6823944805cbc5efca90b1e83bd938
+[horizontal]
+repository url:: {gatsby-simple-blog-with-asciidoctor-url}.git
+commit id     :: link:{gatsby-simple-blog-with-asciidoctor-url}/commit/{gatsby-simple-blog-with-asciidoctor-commit-id}[
+                      {gatsby-simple-blog-with-asciidoctor-commit-id}]
+file          :: link:{gatsby-simple-blog-with-asciidoctor-url}/commit/{gatsby-simple-blog-with-asciidoctor-commit-id}/content/blog[
+                      content/blog^]
+--
 
 
 == Copyright
