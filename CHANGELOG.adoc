@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.5.0
-:revdate: 2019-12-26T12:15:47+0900
-:revremark: Add log that make submodule from asciidoc-sample article
+:revnumber: v1.6.0
+:revdate: 2019-12-26T19:16:29+0900
+:revremark: Add log that delete unnecessary images
 :doctype: article
 :description: sample-articles-for-asciidoctor Change Log
 :title:
@@ -58,6 +58,10 @@ ifndef::env-github[:icons: font]
 * Move ThunderMiracle license notice. (close link:{issues-url}/3[#3])
 * Fix link for gatsby-simple-blog-with-asciidoctor in CHANGELOG.
   (link:{issues-url}/2[#2])
+
+=== Chore
+
+* Delete unnecessary images. (link:{issues-url}/6[#6])
 
 
 == 0.0.0 (2019-12-26)
