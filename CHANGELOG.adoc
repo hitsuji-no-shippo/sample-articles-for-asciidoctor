@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.1.0
-:revdate: 2019-12-26T10:40:18+0900
-:revremark: Add log that clone hitsuji-no-shippo/gatsby-simple-blog-with-asciidoctor/content/blog
+:revnumber: v1.2.0
+:revdate: 2019-12-26T10:40:40+0900
+:revremark: Add log that move ThunderMiracle license notice
 :doctype: article
 :description: sample-articles-for-asciidoctor Change Log
 :title:
@@ -41,6 +41,13 @@ ifndef::env-github[:icons: font]
 :github-url: https://github.com
 :repository-url: {github-url}/hitsuji-no-shippo/sample-articles-for-asciidoctor
 :issues-url: {repository-url}/issues
+
+== 0.1.0 (2019-12-26)
+
+=== Docs
+
+* Move ThunderMiracle license notice. (close link:{issues-url}/3[#3])
+
 
 == 0.0.0 (2019-12-26)
 
