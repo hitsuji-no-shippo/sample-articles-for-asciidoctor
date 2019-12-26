@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.2.0
-:revdate: 2019-12-26T10:40:40+0900
-:revremark: Add log that move ThunderMiracle license notice
+:revnumber: v1.3.0
+:revdate: 2019-12-26T10:41:25+0900
+:revremark: Add log that fix section level from 2 to 1 in 2回目の投稿
 :doctype: article
 :description: sample-articles-for-asciidoctor Change Log
 :title:
@@ -43,6 +43,10 @@ ifndef::env-github[:icons: font]
 :issues-url: {repository-url}/issues
 
 == 0.1.0 (2019-12-26)
+
+=== Fix
+
+* section level from 2 to 1 in 2回目の投稿. (close link:{issues-url}/4[#4])
 
 === Docs
 
