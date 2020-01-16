@@ -3,11 +3,11 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.6.0
-:revdate: 2019-12-26T19:16:29+0900
+:revnumber: v1.7.0
+:revdate: 2020-01-16T15:04:11+0900
 :revremark: Add log that delete unnecessary images
 :doctype: article
-:description: sample-articles-for-asciidoctor Change Log
+:description: sample-posts-with-asciidoc Change Log
 :title:
 :title-separtor: :
 :experimental:
@@ -40,10 +40,15 @@ ifndef::env-github[:icons: font]
 // Variables
 :github-url: https://github.com
 :author-github-profile-url: {github-url}/hitsuji-no-shippo
-:repository-url: {author-github-profile-url}/sample-articles-for-asciidoctor
+:repository-url: {author-github-profile-url}/sample-posts-with-asciidoc
 :issues-url: {repository-url}/issues
 
-== 0.1.0 (2019-12-26)
+== 0.1.0 (2020-01-16)
+
+=== Breaking Changes
+
+* Rename repository name from `sample-articles-for-asciidoctor` to
+  `sampel-posts-with-asciidoc`. (close link:{issues-url}/8[#8])
 
 === Fix
 
