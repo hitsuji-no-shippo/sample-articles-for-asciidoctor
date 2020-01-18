@@ -21,13 +21,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ////
-= Show Disqus
-:revdate: 2019-06-10T22:40:32.169Z
+= Disqus
+:revdate: 2020-01-18T18:32:54+0900
 :page-tags: ["2019"]
-:page-disqus: true
+:page-disqus: false
 
-How to show disqus?
+How to dispaly disqus?
 
 * Get DisqusShortName from link:disqus.com[disqus.com, window=_blank]
 * Set DisqusShortName in gatsby-config.js
-* Add [disqus: true] to enable Disqus
+* By default, it is controlled by graphql using the `page-disqus` value of
+  the asciidoc attribute. If the value is `true`, dispaly disqus.
+  `page-disqus` is `false` in this page, so non dispaly.

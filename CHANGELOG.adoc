@@ -3,9 +3,10 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.7.1
-:revdate: 2020-01-18T19:28:19+0900
-:revremark: Add log that rename repository name
+:revnumber: v1.8.0
+:revdate: 2020-01-18T19:32:55+0900
+:revremark: Add log that change text and `page-disqus` attribute \
+            in the disqus article
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -49,6 +50,16 @@ ifndef::env-github[:icons: font]
 
 * Rename repository name from `sample-articles-for-asciidoctor` to
   `sampel-posts-with-asciidoc`. (close link:{issues-url}/8[#8])
+
+=== Features
+
+==== change
+
+* In the disqus article, change the following two points.
+  (close link:{issues-url}/9[#9])
+  ** Description of display controll of disqus.
+  ** `page-disqus` attribute from `true` to `false`.
+
 
 === Fix
 
