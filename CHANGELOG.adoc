@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.7.0
-:revdate: 2020-01-16T15:04:11+0900
-:revremark: Add log that delete unnecessary images
+:revnumber: v1.7.1
+:revdate: 2020-01-18T19:28:19+0900
+:revremark: Add log that rename repository name
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
