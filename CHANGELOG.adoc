@@ -3,9 +3,10 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.9.0
-:revdate: 2020-01-24T11:22:56+0900
-:revremark: Add log that fix copyright in Hellow World article.
+:revnumber: Branch feat/add-attributes-of-author v1.0.0 (Base v1.9.0)
+:revdate: 2020-01-24T19:37:27+0900
+:revremark: Add log that add attributes that name and email of author \
+            in Hello World and Disqus.
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -51,6 +52,11 @@ ifndef::env-github[:icons: font]
   `sampel-posts-with-asciidoc`. (close link:{issues-url}/8[#8])
 
 === Features
+
+==== Add
+
+* Attributes of author in Hello World and Disqus.
+  ** Name and email. (close link:{issues-url}/11[#11])
 
 ==== change
 

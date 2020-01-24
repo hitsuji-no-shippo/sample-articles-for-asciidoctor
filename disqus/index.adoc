@@ -22,6 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ////
 = Disqus
+:author: ThunderMiracle
+:!email:
 :revdate: 2020-01-18T18:32:54+0900
 :page-tags: ["2019"]
 :page-disqus: false
