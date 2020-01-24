@@ -3,10 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.8.0
-:revdate: 2020-01-18T19:32:55+0900
-:revremark: Add log that change text and `page-disqus` attribute \
-            in the disqus article
+:revnumber: v1.9.0
+:revdate: 2020-01-24T11:22:56+0900
+:revremark: Add log that fix copyright in Hellow World article.
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -44,7 +43,7 @@ ifndef::env-github[:icons: font]
 :repository-url: {author-github-profile-url}/sample-posts-with-asciidoc
 :issues-url: {repository-url}/issues
 
-== 0.1.0 (2020-01-16)
+== 0.1.0 (2020-01-24)
 
 === Breaking Changes
 
@@ -78,6 +77,7 @@ ifndef::env-github[:icons: font]
 === Chore
 
 * Delete unnecessary images. (link:{issues-url}/6[#6])
+* Fix copyright in Hello World article. (close link:{issues-url}/10[#10])
 
 
 == 0.0.0 (2019-12-26)
