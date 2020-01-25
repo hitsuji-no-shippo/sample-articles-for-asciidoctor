@@ -22,8 +22,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ////
 = Hello World
+:author: Gatsby
+:!email:
 :revdate: 2015-05-01T22:12:03.284Z
 :page-tags: [life, "2019", zoos]
+:page-author-url: https://www.gatsbyjs.org
+:page-author-twitter: gatsbyjs
 
 This is my first post on my new fake blog! How exciting!
 
