@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.10.0
-:revdate: 2020-01-25T15:26:27+0900
-:revremark: Add log that Attributes of author in Hello World and Disqus.
+:revnumber: v1.11.0
+:revdate: 2020-01-31T11:51:33+0900
+:revremark: Add log that add revision attributes.
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -43,7 +43,7 @@ ifndef::env-github[:icons: font]
 :repository-url: {author-github-profile-url}/sample-posts-with-asciidoc
 :issues-url: {repository-url}/issues
 
-== 0.1.0 (2020-01-25)
+== 0.1.0 (2020-01-31)
 
 === Breaking Changes
 
@@ -58,6 +58,7 @@ ifndef::env-github[:icons: font]
   ** Name and email. (close link:{issues-url}/11[#11])
   ** Twitter id. (close link:{issues-url}/12[#12])
   ** URL for author link. (close link:{issues-url}/13[#13])
+* Revision attributes. (close link:{issues-url}/15[#15])
 
 ==== change
 

@@ -1,5 +1,8 @@
 = Include
-:revdate: 2019-12-21T21:26:58+0900
+:revnumber: v1.1.0
+:revdate: 2019-12-24T21:26:58+0900
+:reremark: Update to use attributes.
+:page-creation-date: 2019-12-21T21:26:58+0900
 :page-tags: [ascidoc, include]
 
 Include

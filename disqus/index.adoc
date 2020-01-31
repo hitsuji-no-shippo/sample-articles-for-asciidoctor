@@ -24,7 +24,10 @@ SOFTWARE.
 = Disqus
 :author: ThunderMiracle
 :!email:
+:revnumber: v1.1.0
 :revdate: 2020-01-18T18:32:54+0900
+:revremark: Update default config.
+:page-creation-date: 2019-06-10T22:40:32.169Z
 :page-tags: ["2019"]
 :page-disqus: false
 :page-author-url: https://github.com/thundermiracle

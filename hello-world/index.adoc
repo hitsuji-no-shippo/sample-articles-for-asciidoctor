@@ -24,7 +24,10 @@ SOFTWARE.
 = Hello World
 :author: Gatsby
 :!email:
+:revnumber: v1.0.0
 :revdate: 2015-05-01T22:12:03.284Z
+:reremark: First Edition.
+:page-creation-date: 2015-05-01T22:12:03.284Z
 :page-tags: [life, "2019", zoos]
 :page-author-url: https://www.gatsbyjs.org
 :page-author-twitter: gatsbyjs

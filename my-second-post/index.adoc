@@ -1,5 +1,6 @@
 = My Second Post!
-:revdate: 2015-05-06T23:46:37.121Z
+:revdate: 2019-12-07T09:23:32+0900
 :description: If description text is defined, the text display in this area
+:page-creation-date: 2015-05-06T23:46:37.121Z
 
 My second post
