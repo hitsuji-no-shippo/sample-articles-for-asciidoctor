@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.12.0
-:revdate: 2020-02-18T17:47:35+0900
-:revremark: Add log that rename asciidoc-examples to asciidoctor-examples.
+:revnumber: v1.13.0
+:revdate: 2020-02-19T10:12:10+0900
+:revremark: Add log that update asciidoctor examples.
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -43,7 +43,7 @@ ifndef::env-github[:icons: font]
 :repository-url: {author-github-profile-url}/sample-posts-with-asciidoc
 :issues-url: {repository-url}/issues
 
-== 0.1.0 (2020-02-18)
+== 0.1.0 (2020-02-19)
 
 === Breaking Changes
 
@@ -67,6 +67,20 @@ ifndef::env-github[:icons: font]
   ** Description of display controll of disqus.
   ** `page-disqus` attribute from `true` to `false`.
 
+:asciidoctor-examples-repository-name: hitsuji-no-shippo/asciidoctor-examples
+:asciidoctor-examples-link-template: link:{github-url}/{asciidoctor-examples-repository-name}/
+:asciidoctor-examples-issue-link-template: {asciidoctor-examples-link-template}/issues
+* Update {asciidoctor-examples-link-template}[
+  asciidoctor examples^]. (close link:{issues-url}/16[#16])
+  ** Move custome mark list.
+     ({asciidoctor-examples-issue-link-template}/3[
+      {asciidoctor-examples-repository-name} #3])
+  ** Add wrap literal.
+     ({asciidoctor-examples-issue-link-template}/4[
+      {asciidoctor-examples-repository-name} #4])
+  ** Fix title.
+     ({asciidoctor-examples-issue-link-template}/5[
+      {asciidoctor-examples-repository-name} #5])
 
 === Fix
 
