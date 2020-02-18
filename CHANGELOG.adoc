@@ -3,9 +3,9 @@
 :!author-email:
 :author: {author-name}
 :!email: {author-email}
-:revnumber: v1.11.0
-:revdate: 2020-01-31T11:51:33+0900
-:revremark: Add log that add revision attributes.
+:revnumber: v1.12.0
+:revdate: 2020-02-18T17:47:35+0900
+:revremark: Add log that rename asciidoc-examples to asciidoctor-examples.
 :doctype: article
 :description: sample-posts-with-asciidoc Change Log
 :title:
@@ -43,7 +43,7 @@ ifndef::env-github[:icons: font]
 :repository-url: {author-github-profile-url}/sample-posts-with-asciidoc
 :issues-url: {repository-url}/issues
 
-== 0.1.0 (2020-01-31)
+== 0.1.0 (2020-02-18)
 
 === Breaking Changes
 
@@ -75,6 +75,8 @@ ifndef::env-github[:icons: font]
 === Refactor
 
 * Make submodule from asciidoc-sample article. (close link:{issues-url}/5[#5])
+* Rename asciidoc-examples to asciidoctor-examples.
+  (close link:{issues-url}/17[#17])
 
 === Docs
 

@@ -1,3 +1,3 @@
-[submodule "asciidoc-examples"]
-	path = asciidoc-examples
+[submodule "asciidoctor-examples"]
+	path = asciidoctor-examples
 	url = https://github.com/hitsuji-no-shippo/asciidoctor-examples.git
